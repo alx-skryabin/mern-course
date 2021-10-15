@@ -1,10 +1,20 @@
-#MERN stack
+# MERN stack
 
-##npm packages:
-###nodemon
+## used npm packages:
+### nodemon
 For monitor any changes in your source and automatically restart your server.
 
-###concurrently
+### concurrently
+Run multiple commands concurrently
 
-###config
+### config
 Node-config organizes hierarchical configurations for your app deployments.
+
+### bcryptjs
+Password encryption
+
+### express-validator
+Data validation via 'express'
+
+### jsonwebtoken
+Generating an authorization token
