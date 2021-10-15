@@ -1,7 +1,7 @@
 {
-  "name": "mern-course",
+  "name": "mern-server",
   "version": "1.0.0",
-  "description": "MERN stack",
+  "description": "MERN stack server",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -9,7 +9,6 @@
   },
   "keywords": [
     "mern",
-    "react",
     "mongo",
     "express",
     "node"
