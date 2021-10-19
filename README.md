@@ -18,3 +18,6 @@ Data validation via 'express'
 
 ### jsonwebtoken
 Generating an authorization token
+
+### shortid
+Creates amazingly short non-sequential url-friendly unique ids
