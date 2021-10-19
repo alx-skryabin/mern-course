@@ -24,7 +24,7 @@ router.post('/generate', auth, async (req, res) => {
       code, from, to, owner: req.user.userId
     })
 
-    await Link.save()
+    await link.save()
 
     res.status(201).json({link})
   } catch (e) {
@@ -51,4 +51,4 @@ router.get('/:id', auth, async (req, res) => {
   }
 })
 
-module.export = router
+module.exports = router
