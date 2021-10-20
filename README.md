@@ -21,3 +21,9 @@ Generating an authorization token
 
 ### shortid
 Creates amazingly short non-sequential url-friendly unique ids
+
+### cross-env
+Run scripts that set and use environment variables across platforms
+
+### pm2
+It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.

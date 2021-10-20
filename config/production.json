@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "jwtSecret": "alx-skryabin",
+  "mongoUri": "mongodb+srv://aleksandr:ydnk4BZ2ZOge04d6@alx-skryabin.ryzw0.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://yoursite.ru"
+}
